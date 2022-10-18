@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Beginner Web Programmer with a passion for building websites.<br>👯 Also a Beginner Web Designer.<br>🌱 I’m currently learning<br>💬 Send me an email if you are interested :)<br>
+🔭 I am a Beginner Web Programmer with a passion for building websites.<br>👯 Also a Beginner Web Designer.<br>🌱 I’m currently learning PHP (Laravel)<br>💬 Send me an email if you are interested :)<br>
 
 
 ## 🌐 Socials:
