@@ -21,9 +21,9 @@
 ## 📊 GitHub Stats
 | Stat                     | Badge                                    |
 |--------------------------|------------------------------------------|
-| GitHub Stats (Top)       | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-tymoshchuk&layout=compact&theme=dracula) |
-| GitHub Stats (Main)      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladyslav-tymoshchuk&theme=dracula&show_icons=true) |
-| GitHub Streak            | ![GitHub Streak](https://streak-stats.demolab.com?user=vladyslav-tymoshchuk&theme=dracula) |
+| Most Used Languages      | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlados-XiMiK&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
+| GitHub Stats (Main)      | ![](https://github-readme-stats.vercel.app/api?username=Vlados-XiMiK&theme=prussian&hide_border=false&include_all_commits=true&count_private=false) |
+| GitHub Streak            | ![](https://github-readme-streak-stats.herokuapp.com/?user=Vlados-XiMiK&theme=prussian&hide_border=false) |
 
 ---
 
